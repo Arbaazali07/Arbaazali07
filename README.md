@@ -5,7 +5,7 @@
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Cyber+Security+Student;Web+Developer;UI%2FUX+Designer;Football+Lover+⚽;Future+Champion+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Cyber+Security+Student;Web+Developer;UI%2FUX+Designer;Footballer++⚽;Future+Champion+🚀" />
 </p>
 
 <!-- ================= PROFILE VIEWS ================= -->
